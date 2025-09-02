@@ -37,3 +37,9 @@
 
 13. git branch -d test
     // delete the test branch
+
+14. git diff main
+    // used to compare commits,brnaches,files & more
+
+15. git merge main
+    // to merge two branches
