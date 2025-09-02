@@ -1,0 +1,39 @@
+1. git config --global username "My Name" 
+    // this is used for  config username
+
+2. git config --global user.email "Someone@gmail.com" 
+    // this is used to set the email id where the github is made.
+
+3. git clone https://github.com/Chaudhary-Ashutosh/demo.git 
+    // this is used to clone  git repository to local directory
+
+4. git status
+    // used to display the status of the code
+
+5. git add -A or git add .
+    // used to add all new or all changed files in your working directory to git staging area
+    // ex- git add index.html this will add only index.html to the git staging area
+
+6.git commit -m "some message"
+    // it is the record of changes 
+
+7.git push or git push origin main
+    // upload local repo content to remote repo.
+
+8. git init
+    // used to create a new git repo
+
+9. git branch
+    // to check the branches
+
+10. git checkout -b feature
+    // to create a new branch name feature
+
+11. git checkout main
+    // switch to main branch
+
+12. git checkout -b test
+    //create new branch test
+
+13. git branch -d test
+    // delete the test branch
